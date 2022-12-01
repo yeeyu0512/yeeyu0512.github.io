@@ -1,0 +1,25 @@
+div {
+  color: red;
+  float:left;
+  width:100%
+  margin-left:auto;
+  margin-right:10px;
+}
+
+div.right{
+  float:right;
+}
+
+input.ridge{
+ border-style: ridge;
+ border-color: blue;
+}
+
+input.ridge2{
+ border-style: ridge;
+ border-color: gray;
+}
+
+img{
+ width:50%;
+}
